@@ -1,0 +1,20 @@
+Honey Badger Algorithm (HBA) 
+Developed in MATLAB R2013b          
+Authors:
+
+Hashim, Fatma A., Essam H. Houssein, Kashif Hussain, Mai S. Mabrouk, Walid Al-Atabany. 
+"Honey Badger Algorithm: New Metaheuristic Algorithm for Solving Optimization Problems." 
+Mathematics and Computers in Simulation, 2021.
+
+
+
+
+
+
+
+The files in this zip archive are MATLAB m-files that can be used to study Honey Badger Algorithm (HBA).
+
+HBA is the method that we invented and wrote about in the following paper:
+
+%%%%%%%%%%%%%%%
+
